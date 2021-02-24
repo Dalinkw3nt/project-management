@@ -2,4 +2,4 @@
 
 <img src = "pmaDashboard.JPG">
 </br>
-<img src = "pmaTimelines.JPG>
+<img src = "pmaTimelines.JPG">
