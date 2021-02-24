@@ -1,3 +1,3 @@
 # project-management
  Java Project
-<img src = "project-management/pmaDashboard.JPG">
+<img src = "pmaDashboard.JPG">
