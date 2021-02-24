@@ -11,6 +11,7 @@ import javax.persistence.Table;
 @Table(name = "user_accounts")
 public class UserAccount {
 @Id
+
 	@GeneratedValue(strategy = GenerationType.IDENTITY, generator ="user_accounts_seq")
 //	@Column(name = "user_id")
 	private long userId;
