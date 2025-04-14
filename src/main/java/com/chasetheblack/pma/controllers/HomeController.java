@@ -43,7 +43,7 @@ public class HomeController {
 		
 		List<ChartData> projectData = proRepo.getProjectStatus();
 		
-		//COnver projectData object into JSON structure for the use in JavaScript
+		//Convert projectData object into JSON structure for the use in JavaScript
 		ObjectMapper objectMapper = new ObjectMapper();
 		String jsonString = objectMapper.writeValueAsString(projectData);
 		
